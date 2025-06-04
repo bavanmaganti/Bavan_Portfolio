@@ -24,7 +24,7 @@ export default function Home() {
         <div className="hero-content">
           <h1>Hi, I&apos;m <span className="highlight">Bavan Maganti</span></h1>
           <h2>Aspiring Software Engineer</h2>
-          <p>Master&apos;s in Computer Scinece at Texas A&M Universtiy</p>
+          <p>Master&apos;s in Computer Scinece at Texas A&amp;M Universtiy</p>
           <button className="cta-button">View My Work</button>
         </div>
       </section>
@@ -47,7 +47,7 @@ export default function Home() {
           <h2>Experience</h2>
           <div className='projects-grid'>
             <div className='project-card'>
-              <h3>Graduate Teaching Assistant - Texas A&M Universtiy</h3>
+              <h3>Graduate Teaching Assistant - Texas A&amp;M Universtiy</h3>
               
               <p>Developed an application for TAMUK Hospital to manage Electronic Medical Records (EMRs), leveraging Python, PyPDF for PDF parsing, and 
                  SQL for efficient data storage.</p>
