@@ -22,9 +22,9 @@ export default function Home() {
       {/* Hero Section */}
       <section className="hero">
         <div className="hero-content">
-          <h1>Hi, I'm <span className="highlight">Bavan Maganti</span></h1>
+          <h1>Hi, I&apos;m <span className="highlight">Bavan Maganti</span></h1>
           <h2>Aspiring Software Engineer</h2>
-          <p>Masters in Computer Scinece at Texas A&M Universtiy</p>
+          <p>Master&apos;s in Computer Scinece at Texas A&M Universtiy</p>
           <button className="cta-button">View My Work</button>
         </div>
       </section>
@@ -56,7 +56,7 @@ export default function Home() {
             </div>
             <div className='project-card'>
               <h3>Software Engineer Extern - Cytiva</h3>
-              <p>Led the development of React.js and CSS-based chatbot for Cytiva’s medical instrument troubleshooting, enhanced user experience and 
+              <p>Led the development of React.js and CSS-based chatbot for Cytiva&apos;s medical instrument troubleshooting, enhanced user experience and 
                  engagement across both web and mobile platforms.  </p>
               <p>Integrated secure APIs for real-time response analysis and maintenance recommendations, ensured data privacy and user safety. </p>
               <p>Optimized the existing codebase, improving performance and scalability, leading to a 25% reduction in response time and enhanced reliability 
@@ -133,7 +133,7 @@ export default function Home() {
             <div className="project-card">
               <h3>Bitcoin Mining</h3>
               <p> Developed a full-stack web application using Flask serving a REST API with React as the frontend. Implemented GitHub OAuth to retrieve data 
-                  from user’s repositories. </p>
+                  from user&apos;s repositories. </p>
               <p>
                   Visualized GitHub data to show collaboration, added features such as sorting according to programming language, most likes. stored the user data 
                   on MongoDB. Performed CRUD operations to make necessary changes in user data.
@@ -147,7 +147,7 @@ export default function Home() {
             </div>
             <div className="project-card">
               <h3>ChatGPT Mini – AI – Powered Language Translation</h3>
-              <p>Developed a full-stack AI translation system using a transformer- based model for English-to-French translation. Integrated Hugging Face’s GPT 
+              <p>Developed a full-stack AI translation system using a transformer- based model for English-to-French translation. Integrated Hugging Face&apos;s GPT 
                  model, optimizing Encoder/Decoder layers, improving translation accuracy by 40%. 
               </p>
               <p>
