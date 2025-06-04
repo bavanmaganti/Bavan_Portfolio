@@ -25,7 +25,7 @@ export default function Home() {
           <h1>Hi, I&apos;m <span className="highlight">Bavan Maganti</span></h1>
           <h2>Aspiring Software Engineer</h2>
           <p>Master&apos;s in Computer Scinece at Texas A&amp;M Universtiy</p>
-          <button className="cta-button">View My Work</button>
+          {/* <button className="cta-button">View My Work</button> */}
         </div>
       </section>
 
