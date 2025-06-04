@@ -152,7 +152,7 @@ export default function Home() {
               </p>
               <p>
                  Deployed the model on AWS Lambda via a RESTful API,reducing latency by 30% and enhancing scalability. 
-                 Implemented CI/CD with Docker & GitHub Actions, ensuring automated testing &deployment.
+                 Implemented CI/CD with Docker &amp; GitHub Actions, ensuring automated testing &amp;deployment.
               </p>
               <div className="project-tech">
                 <span>React</span>
@@ -170,7 +170,7 @@ export default function Home() {
       <section id="contact" className="contact">
         <div className="container">
           <h2>Get In Touch</h2>
-          <p>I'd love to discuss your next project!</p>
+          <p>I&apos;d love to discuss your next project!</p>
           <div className="contact-info">
             <p>Email: bavan.maganti@gmail.com</p>
             <p>Phone: +1 (361) 455-7034</p>
